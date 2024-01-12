@@ -1,0 +1,19 @@
+{
+    "name": "xinnet/globalmail",
+    "description": "A tool for xinnet global mail.",
+    "autoload": {
+        "psr-4": {
+            "Xinnet\\Globalmail\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jswei",
+            "email": "524314430@qq.com"
+        }
+    ],
+    "require": {
+        "php": "^7.4",
+        "curl/curl": "^2.5"
+    }
+}
